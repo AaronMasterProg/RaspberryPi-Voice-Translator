@@ -9,6 +9,6 @@ Este es un asistente de voz con traducción en tiempo real y reconocimiento faci
 - 🏗️ **Diseñado para Raspberry Pi**
 
 ```bash
-git clone https://github.com/tu_usuario/RaspberryPi-Voice-Translator.git
+git clone https://github.com/aaronmasterprog/RaspberryPi-Voice-Translator.git
 cd RaspberryPi-Voice-Translator
 bash setup.sh
